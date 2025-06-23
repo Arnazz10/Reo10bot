@@ -32,3 +32,50 @@
 ```bash
 git clone https://github.com/Arnazz10/Reo10bot.git
 cd Reo10bot
+
+2. Create a virtual environment
+bash
+Copy
+Edit
+python3 -m venv venv
+source venv/bin/activate
+3. Install dependencies
+bash
+Copy
+Edit
+pip install python-telegram-bot
+4. Set your bot token
+Edit constants.py and add your token:
+
+python
+Copy
+Edit
+API_TOKEN = "your-telegram-bot-token-here"
+5. Run the bot
+bash
+Copy
+Edit
+python main.py
+💬 Talk to the Bot
+🧠 Try chatting with Reo10bot on Telegram
+
+Examples:
+
+"hi"
+
+"how are you"
+
+"i'm feeling sad"
+
+/joke
+
+/motivate
+
+🔐 Security Note
+🚨 DO NOT share your real API token publicly. Use a .env file or GitHub secrets for production bots.
+
+🙌 Author
+Arnab Kumar Mal
+GitHub: @Arnazz10
+
+
