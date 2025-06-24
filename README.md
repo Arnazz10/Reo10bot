@@ -45,7 +45,7 @@ Copy
 Edit
 pip install python-telegram-bot
 4. Set your bot token
-Edit constants.py and add your token:
+Edit constants.py and add your token
 
 python
 Copy
