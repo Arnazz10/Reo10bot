@@ -11,7 +11,7 @@
 - ✅ Friendly and human-like replies  
 - ✅ Commands like `/start`, `/help`, `/joke`, `/motivate`, `/time`, `/date`  
 - ✅ Recognizes keywords like *hi*, *sad*, *thank you*, *love*  
-- ✅ Easily extendable with more commands and personality  
+- ✅ Easily extendable with more commands and personality.
 - ✅ Built with `python-telegram-bot` v22+
 
 ---
