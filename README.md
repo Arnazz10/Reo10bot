@@ -2,8 +2,7 @@
 
 [![Telegram](https://img.shields.io/badge/Chat%20with%20Reo10bot-Click%20Here-2ea44f?style=for-the-badge&logo=telegram)](https://t.me/Reo10bot)
 
-**Reo10bot** is a friendly, conversational Telegram bot designed to feel like a real digital buddy. It chats, jokes, motivates, and responds with empathy — a lightweight virtual companion you can talk to anytime.
-
+**Reo10bot** is a friendly, conversational Telegram bot designed to feel like a real digital buddy. It chats, jokes, motivates, and responds with empathy — a lightweight virtual companion you can talk to anytime
 ---
 
 ## ✨ Features
