@@ -5,9 +5,9 @@ import random
 def sample_responses(text):
     text = text.lower()
 
-    greetings = ["hi", "hello", "hey", "yo", "sup"]
+    greetings = ["hi", "hello", "hey", "yo", "sup" , "wassup"]
     if any(word in text for word in greetings):
-        return random.choice(["Hey there! 😊", "Hello! How’s your day going?", "Hi! I’m Reo10bot. Here for you."])
+        return random.choice(["Hey there! 😊", "Hello! How’s your day going?", "Hi! I’m Reo10bot. Here for you alltime."])
 
     if "how are you" in text:
         return "I'm a bot, but I feel great when you're around! 😄"
