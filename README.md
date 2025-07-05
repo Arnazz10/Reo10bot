@@ -42,7 +42,7 @@ source venv/bin/activate
 bash
 Copy
 Edit
-pip install python-telegram-bot
+pip install python-telegram-
 4. Set your bot token
 Edit constants.py and add your token
 
