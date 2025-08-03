@@ -65,6 +65,7 @@ Examples:
 "how are you"
 
 "i'm feeling sad"
+"U r very cute"
 
 /joke
 
